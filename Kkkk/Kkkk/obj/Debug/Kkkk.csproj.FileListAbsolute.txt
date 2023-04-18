@@ -1,8 +1,0 @@
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\bin\Debug\Kkkk.exe.config
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\bin\Debug\Kkkk.exe
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\bin\Debug\Kkkk.pdb
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\obj\Debug\Kkkk.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\obj\Debug\Kkkk.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\obj\Debug\Kkkk.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\obj\Debug\Kkkk.exe
-C:\Users\user\source\repos\LW_021\Kkkk\Kkkk\obj\Debug\Kkkk.pdb
